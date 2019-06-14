@@ -20,6 +20,10 @@ LG HIFI 精灵的外壳，提供 3D 打印模型给大家取用。
 ### Base
 ![上盖](https://github.com/TachibanaSuzume/LG_HIFI_Plus_Case/blob/master/Base/cover.png)
 ![下底](https://github.com/TachibanaSuzume/LG_HIFI_Plus_Case/blob/master/Base/base.png)
+
+### Hole
+![上盖](https://github.com/TachibanaSuzume/LG_HIFI_Plus_Case/blob/master/Hole/cover.png)
+![下底](https://github.com/TachibanaSuzume/LG_HIFI_Plus_Case/blob/master/Hole/base.png)
 * 未完待续
 
 ## Usage
